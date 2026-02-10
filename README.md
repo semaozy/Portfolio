@@ -10,4 +10,4 @@ It's a great starting point for anyone who wants to build a fast, modern portfol
 * Vite
 
 ---
-...by Nora
+...by sema
